@@ -16,7 +16,7 @@ This project was built using:
 # Installation
 To install this project on your local machine, follow these steps:
 - Clone the repository:
-git clone https://github.com/<your-username>/music-app.git
+git clone https://github.com/IPH-Technologies-Pvt-Ltd/Music-Desktop-App/
 - Navigate into the project directory:
  cd music-app
 - Install the required dependencies:
