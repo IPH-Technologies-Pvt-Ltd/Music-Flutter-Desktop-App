@@ -37,3 +37,7 @@ This project is licensed under the MIT License.
 
 # Acknowledgements
 This project was inspired by Spotify.
+
+# Screenshot
+![SS2](https://user-images.githubusercontent.com/124572978/218702596-eed06e97-166f-40b4-a10d-3d92baf85add.jpg)
+
