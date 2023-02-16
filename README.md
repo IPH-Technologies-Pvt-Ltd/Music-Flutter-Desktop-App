@@ -20,7 +20,7 @@ git clone https://github.com/IPH-Technologies-Pvt-Ltd/Music-Desktop-App/
 - Navigate into the project directory:
  cd music-app
 - Install the required dependencies:
-bash
+flutter pub get
 - Start the app:
 flutter run
 # Usage
