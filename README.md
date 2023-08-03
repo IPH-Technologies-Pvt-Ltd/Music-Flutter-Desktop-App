@@ -1,4 +1,10 @@
 # Music Desktop App
+[![Swift](https://img.shields.io/badge/swift-%2320232a.svg?style=for-the-badge&logo=swift&logoColor=%23F05138)](https://swift.org/)
+[![Dart](https://img.shields.io/badge/dart-%2320232a.svg?style=for-the-badge&logo=dart&logoColor=%230175C2)](https://dart.dev/)
+[![Ruby](https://img.shields.io/badge/ruby-%2320232a.svg?style=for-the-badge&logo=ruby&logoColor=%23CC342D)](https://www.ruby-lang.org/)
+[![HTML](https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Other](https://img.shields.io/badge/other-%2320232a.svg?style=for-the-badge)](https://www.example.com/)
+
 This is a Music Desktop App built with Flutter.
 # Features
 - Play/Pause music
